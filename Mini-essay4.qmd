@@ -1,0 +1,69 @@
+---
+title: "Mini-Essay 4"
+author: "Zongcheng Cao"
+date: today
+date-format: long
+format: pdf
+editor: visual
+bibliography: reference.bib
+---
+
+The paper "The Mundanity of Excellence: An Ethnographic Report on Stratification and Olympic Swimmers" by Daniel F. Chambliss [@article]
+
+## Day 1
+
+In the usage of studying stratification, the author decided to study how excellence occurred. Compared to other fields such as artists, singers, writers, athletes are good study research subjects, especially the swimming athletes to compete in Olympic Games. The reason for swimmers being appropriate for a stratification study is that the outcomes of the competitions are clear and easy to order for each individual using the concept of "excellence". Clear stratifications are shown in each swimming competition such as the Olympic Games. As an outcome, the ranks of various swimming games in the Olympics can be an appropriate example to determine "excellence", because the athlete who swims the fastest and ranks the highest can be easily located in such ranking.
+
+Not only the Olympic Games, there are many levels of swimming competition, such as athletes representing their schools, athletes representing the city, athletes representing the country, etc. Furthermore, the age of the athletes are also categorized into various levels, such as the "Junior Nationals" level competition for swimmers under the age of 18. 
+
+These different ranking systems can be a good example of stratification, because there is a detailed stratification system in the world swimming league that can be used in a study. Also, for each strata, the rankings are unambiguous due to the marking system that determines how fast a swimmer swims, and how the score compares with other swimmers. 
+
+Therefore, swimming is a good stratification example for discovering what makes excellence happen. 
+
+## Day 2 
+
+The stratification study of the making of "excellence" can be applied to swimming competitions, such as the Olympic swimming competition. Swimming being a good example because of its clear and measurable outcome, which is ideal for examining "excellence" of individual swimmers. Also, different levels of competitions are divided into different levels of competitions in various categories, which can be applied in a stratification study. 
+
+\
+
+## Day 3
+
+Since the article does not contain an abstract, I will write a detailed abstract myself after reading the paper.
+
+\
+
+Abstract:
+
+The article developed the concept of excellence through a stratification study over the swimming competition. The author argues that the causes of excellence for a swimming competitor are not due to the swimmer's talent or changes in behavior. It is mainly caused by the difference in training, discipline, and attitude. Rather than being remarkable, the concept of excellence is mundane, because the top performances are formed by small skills and habits combined together. In this paper, the author uses observations of ethnography to determine that excellence in swimming relates more to the consistent and long time practices, rather than the inherent talent. 
+
+\
+
+## Day 4
+
+The article researched the concept of excellence in swimming competitions, using the method of stratification. As a result, the author states that being excellent is not a remarkable experience, but a mundane process. Excellence is a combination of small skills, habits, and attitude that is cumulative over time. Therefore, excellence in swimming competition is not a result of natural talent, but an outcome of consistency and long-term practice.  
+
+## Day 5
+
+The paper looked at what makes one great in a big game. It found that being great is not about having special power from the start. Instead, it's about doing many small things right, again and again, over time. So, being great comes from working hard and try hard, not just use the power one has from the start.
+
+\
+
+## Day 6
+
+Three points I liked about this paper:
+
+1.  It is great to use a specific example of swimming competition to explain the formation of an abstract concept, "excellence", in a scientific and statistical way.
+
+2.  The paper applied the statistical method of stratification into a sociological based research. 
+
+3.  This paper included quantitative data analysis, which is more believable than abstract ideas. 
+
+\
+
+## Day 7
+
+A point that I do not like about this paper is that it is missing the abstract. With an abstract in the beginning, the structure of the paper can bring better reading experiences, and express the main ideas of the paper more clearly.
+
+\newpage
+
+## References
